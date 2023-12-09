@@ -1,0 +1,40 @@
+body {
+    background-color: ivory;
+  }
+  
+  p {
+    font-size: 12pt;
+    font-family: Arial;
+    color: brown;
+  }
+  
+  h1, h2, h3 {
+    font-family: Arial;
+    color: red;
+    font-size: 14pt;
+    font-weight: bold;
+  }
+  
+  h1 {
+    font-size: 24pt;
+  }
+  
+  hr {
+    color: green;
+    background-image: linear-gradient(to right, green, #333);
+    background-size: 100% 2px;
+    height: 1px;
+    border: none;
+    margin: 20px;
+  }
+  
+  table {
+    background-color: pink;
+    border: 2px solid brown;
+    text-align: right;
+    color: brown;
+  }
+
+  th, td {
+	border: 1px solid brown;
+  }
